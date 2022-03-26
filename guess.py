@@ -15,7 +15,6 @@ while True:
 		print('你猜中!')
 		print('這是你猜的第', count, '次')
 		break
-		90
 	elif num > r:
 		print('比答案大')
 	elif num < r:
